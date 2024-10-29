@@ -1,6 +1,10 @@
 [
     {
         "entraTenantId": "a0c6ec6d-94c1-4b6e-a290-73996660e809",
-        "tenantDescription": "Replace me with a json-file that contains the TenantIds and Descriptions from your customers.  More info: https://www.waldo.be"
+        "tenantDescription": "StrongPoint"
+    },
+    {
+        "entraTenantId": "9980e050-71cd-404d-a62a-42d7ca33b303",
+        "tenantDescription": "RFX"
     }
 ]
