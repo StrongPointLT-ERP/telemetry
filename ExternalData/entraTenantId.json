@@ -6,5 +6,9 @@
     {
         "entraTenantId": "9980e050-71cd-404d-a62a-42d7ca33b303",
         "tenantDescription": "RFX"
+    },
+    {
+        "entraTenantId": "ba9f18ae-77af-424b-9910-08525c543f2c",
+        "tenantDescription": "ANIS"
     }
 ]
