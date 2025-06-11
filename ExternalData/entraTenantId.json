@@ -10,5 +10,9 @@
     {
         "entraTenantId": "ba9f18ae-77af-424b-9910-08525c543f2c",
         "tenantDescription": "ANIS"
+    },
+    {
+        "entraTenantId": "4154271a-5b5e-4d5b-b230-505ce25be606",
+        "tenantDescription": "Lemora"
     }
 ]
