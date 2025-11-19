@@ -14,5 +14,9 @@
     {
         "entraTenantId": "4154271a-5b5e-4d5b-b230-505ce25be606",
         "tenantDescription": "Lemora"
+    },
+    {
+        "entraTenantId": "ed89287f-f573-4f1b-b9b1-b79ffabda464",
+        "tenantDescription": "ALG"
     }
 ]
